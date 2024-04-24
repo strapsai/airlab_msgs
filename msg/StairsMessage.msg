@@ -1,0 +1,11 @@
+std_msgs/Header header
+uint8 stair_id
+uint8 stair_count
+float32 stair_length
+float32 stair_height
+float32 stair_width
+geometry_msgs/Point staircase_center
+float32 staircase_yaw
+airlab_msgs/StairStep[] steps
+string robot_id
+sensor_msgs/Image image

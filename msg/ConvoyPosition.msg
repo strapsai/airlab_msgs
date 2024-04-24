@@ -1,0 +1,2 @@
+string system_id 
+uint8 convoy_position

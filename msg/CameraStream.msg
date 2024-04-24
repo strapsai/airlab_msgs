@@ -1,0 +1,3 @@
+string stream_name
+string multicast_address
+int32 port

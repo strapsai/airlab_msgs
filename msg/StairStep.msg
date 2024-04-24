@@ -1,0 +1,4 @@
+geometry_msgs/Point start_p
+geometry_msgs/Point end_p
+geometry_msgs/Point center_p
+float32 step_width
